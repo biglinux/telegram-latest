@@ -1,0 +1,14 @@
+#!/bin/bash
+
+#Install
+if [ ! -e "$HOME/Telegram/Telegram" ]; then
+    konsole -e telegram-latest-download
+fi
+
+#Fix Window Border
+if [ ! -e "$HOME/.local/share/TelegramDesktop/tdata/settingss" ]; then
+    cp -f "/usr/share/telegram-config/settingss" "$HOME/.local/share/TelegramDesktop/tdata/settingss"
+fi
+
+#Run
+"$HOME/Telegram/Telegram"

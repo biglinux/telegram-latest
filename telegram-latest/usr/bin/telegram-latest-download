@@ -1,0 +1,12 @@
+#!/bin/bash
+
+mkdir -p ~/Telegram
+cd ~/Telegram
+
+echo '########################'
+echo '###  Downloading...  ###'
+echo '########################'
+
+wget https://telegram.org/dl/desktop/linux -O telegram.tar.gz
+tar -xvf telegram.tar.gz --strip-components 1
+rm -f telegram.tar.gz
