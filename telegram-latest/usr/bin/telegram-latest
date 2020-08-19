@@ -7,6 +7,7 @@ fi
 
 #Fix Window Border
 if [ ! -e "$HOME/.local/share/TelegramDesktop/tdata/settingss" ]; then
+    mkdir -p ~/.local/share/TelegramDesktop/tdata/
     cp -f "/usr/share/telegram-config/settingss" "$HOME/.local/share/TelegramDesktop/tdata/settingss"
 fi
 
