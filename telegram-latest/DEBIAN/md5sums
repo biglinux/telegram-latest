@@ -1,0 +1,13 @@
+d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
+3b060611b358e4072a45512b9a56992e  DEBIAN/control
+b691e447c8dd5492f73f91196dc27ae9  usr/bin/telegram-latest
+63fba2a1569a37731d39ed8c4762141a  usr/bin/telegram-latest-download
+2b9d31769eab6300df4eff5c088b73bc  usr/share/applications/telegramdesktop-latest.desktop
+6e05af83aafe2a0ef80081eb02e8a477  usr/share/icons/hicolor/128x128/apps/telegram-latest.png
+0a7ff5734c0cb487ea051c2c3bbd1008  usr/share/icons/hicolor/16x16/apps/telegram-latest.png
+505c60e6f7f770362a9e6d52034d83d4  usr/share/icons/hicolor/256x256/apps/telegram-latest.png
+0041647070be5a5f3f0101b5c7a84444  usr/share/icons/hicolor/32x32/apps/telegram-latest.png
+be8cf2530b1b860043702fb8e2157efd  usr/share/icons/hicolor/48x48/apps/telegram-latest.png
+7455ce0abac7744f6f945d72d92534f0  usr/share/icons/hicolor/512x512/apps/telegram-latest.png
+4760fb7db6e541aca578c4aad561ef8a  usr/share/icons/hicolor/64x64/apps/telegram-latest.png
+8fcc73b4d87fbed9f5e65d4dd3325ab0  usr/share/telegram-config/settingss

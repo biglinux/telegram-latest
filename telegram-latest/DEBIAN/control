@@ -5,5 +5,5 @@ Architecture: all
 Maintainer: Bruno Goncalves <biglinux.com.br>
 Section: admin
 Priority: optional
-Installed-Size:44
+Installed-Size:120
 Description: Install the latest version of telegram-desktop and keep updated using the telegram update system
