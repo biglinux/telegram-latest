@@ -1,7 +1,7 @@
 d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
 3b060611b358e4072a45512b9a56992e  DEBIAN/control
-b691e447c8dd5492f73f91196dc27ae9  usr/bin/telegram-latest
 63fba2a1569a37731d39ed8c4762141a  usr/bin/telegram-latest-download
+f2cace9e066a069d0f5216305b149ebf  usr/bin/telegram-latest
 2b9d31769eab6300df4eff5c088b73bc  usr/share/applications/telegramdesktop-latest.desktop
 6e05af83aafe2a0ef80081eb02e8a477  usr/share/icons/hicolor/128x128/apps/telegram-latest.png
 0a7ff5734c0cb487ea051c2c3bbd1008  usr/share/icons/hicolor/16x16/apps/telegram-latest.png
